@@ -62,6 +62,6 @@ Here are some ideas to get you started:
 
 
 
-[website]: https://adityauser.github.io/blog
+[website]: https://adityauser.github.io/
 [twitter]: https://twitter.com/ProbablyAditya
 [linkedin]: https://www.linkedin.com/in/aditya-singh-545727161/
