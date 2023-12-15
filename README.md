@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I'm Aditya 
-## I'm a pre-final masters' student at IIT (BHU) Varanasi.
+## I'm a Machine Learning enthusiastic.
 ## Wanna know more about me, go through my [website]
 - 🤩 Awesome fields that I love to work in are:
 	- 🤖 Reinforcement Learning
